@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+}
+#output {
+	background-color: grey;
+	margin: 30px 30px;
+	padding: 5px;
+	/*	color: grey;
+		border: 1px solid white;
+
+		position:fixed;
+
+		position: relative;
+		z-index: 100;
+		top:50%;
+		left:50%;
+
+		margin: 10% auto;
+		width: 800px;
+		height: 600px;*/
+}
+
+#output div p {
+	margin: 5px;
+}
+
+.custom-restricted-width {
+    /* To limit the menu width to the content of the menu: */
+    display: inline-block;
+    /* Or set the width explicitly: */
+    /* width: 10em; */
+}

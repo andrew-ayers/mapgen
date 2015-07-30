@@ -1,0 +1,28 @@
+body {
+  padding-top: 50px;
+  background-color: black;
+}
+.starter-template {
+  padding: 5px 5px;
+  /*text-align: center;*/
+}
+
+.outputz {
+  color: gray;
+}
+
+.whitebox {
+  border: 1px solid white;
+  background-color: black;
+}
+
+
+#command-box {
+  position:absolute;
+  bottom:0;
+  /*padding: 5px 5px;*/
+  padding-bottom: 5px;
+  width:100%;
+  /*height:60px;*/
+  /*background:#6cf;*/
+}
